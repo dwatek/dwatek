@@ -27,5 +27,5 @@ I'm Software Developer, who loves developing web applications in ruby and ruby o
 ### ⚡ Technologies
 
 - Backend development, using **Ruby** or **Ruby On Rails**
-- Frontend - **Stimulus/Turbo/Hotwired**
+- Frontend - **Stimulus/Turbo (Hotwired)**
 - Containers - **Docker/Docker Compose/Kamal Proxy**
